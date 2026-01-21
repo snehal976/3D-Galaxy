@@ -1,4 +1,9 @@
 # 3D Galaxy Animation 🌌
+<img width="1316" height="805" alt="image" src="https://github.com/user-attachments/assets/e7f5d994-f735-4e8a-8367-4a9136a2d455" />
+
+<img width="1335" height="785" alt="image" src="https://github.com/user-attachments/assets/fbed6294-1b27-4a25-ad97-2f819402e90c" />
+
+
 
 A high-performance, interactive 3D Galaxy simulation built with modern web technologies. This project visualizes a 3D star field/galaxy animation using Next.js and TypeScript, optimized for smooth performance and responsiveness.
 
